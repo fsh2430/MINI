@@ -1,4 +1,4 @@
-const CACHE_NAME = "mini-night-survivors-github-v1";
+const CACHE_NAME = "mini-night-survivors-github-v2";
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon.svg"];
 
 self.addEventListener("install", (event) => {
