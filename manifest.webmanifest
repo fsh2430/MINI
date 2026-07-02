@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Mini Night Survivors",
+  "short_name": "Night Mini",
+  "description": "Tiny iPhone-ready survival game.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101116",
+  "theme_color": "#101116",
+  "categories": ["games"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
